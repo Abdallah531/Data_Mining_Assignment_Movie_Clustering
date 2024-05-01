@@ -16,15 +16,16 @@ Consider a dataset scraped from IMDB's official website containing ratings of th
 6. **Results Display:** The final output displays the clustered movies along with outlier records.
 
 ## Screenshots
-**Main GUI**
+### Main GUI
 
 ![Main GUI](https://github.com/Abdallah531/Data_Mining_Assignment_Movie_Clustering/assets/117390537/28573fa9-3a83-4df0-a00e-ac3a9310929a)
 
-**Data Distribution**
+### Data Distribution
 
-![Data Distribution](https://github.com/Abdallah531/Data_Mining_Assignment_Movie_Clustering/assets/117390537/58ad8cbb-d3a5-488c-8ba7-36bf33c08700)
+![Data Distribution](https://github.com/Abdallah531/Data_Mining_Assignment_Movie_Clustering/assets/117390537/8a839518-7971-4c79-a253-835d74d16568)
 
-**Clustering Results**
+
+### Clustering Results
 
 ![Clustering Results](https://github.com/Abdallah531/Data_Mining_Assignment_Movie_Clustering/assets/117390537/13d48967-38da-4652-9d91-aba30103f038)
 
